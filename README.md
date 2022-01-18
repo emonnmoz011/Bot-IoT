@@ -1,0 +1,2 @@
+# Bot-IoT
+This project aims to characterize the incoming traffic in an IoT (Internet of Things) environment using Machine Learning and Deep Learning Techniques. We have utilized the Bot-IoT dataset created in the Cyber Range Lab of UNSW Canberra. There were four categories to characterize in the dataset. The traffic categories are (a) DDoS (b) DoS (c) Reconnaissance and (d) Normal. I implemented (a) SVM (b) LSTM and (c) Vanilla RNN to observe the classification results
